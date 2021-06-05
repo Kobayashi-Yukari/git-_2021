@@ -5,3 +5,5 @@ main01
 main02
 main03
 mainsokosoko
+mainsokosoko3
+mainsokosoko3-2
